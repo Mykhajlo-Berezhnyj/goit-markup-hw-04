@@ -408,12 +408,12 @@ li {
 .footer-wrapper {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .footer-page .logo {
   display: flex;
   margin-bottom: 16px;
+  margin-right: 120px;
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -431,6 +431,7 @@ li {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  margin-right: 120px;
 }
 
 .footer-text {
@@ -440,7 +441,6 @@ li {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   width: 264px;
-  margin-right: 120px;
 }
 
 .social-text {
@@ -453,7 +453,7 @@ li {
   color: #ffffff;
 }
 
-.footer-link {
+.footer .social-list {
   gap: 16px;
 }
 
