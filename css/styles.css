@@ -455,8 +455,7 @@ li {
   color: #ffffff;
 }
 
-.footer .social-list {
-  display: flex;
+.footer-list {
   gap: 16px;
 }
 
